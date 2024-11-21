@@ -32,6 +32,7 @@
 
 
 ?>
+<!-- Optional theme -->
 
     <!-- fOOD sEARCH Section Starts Here -->
     <section class="food-search">
