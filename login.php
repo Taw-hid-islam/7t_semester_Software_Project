@@ -36,11 +36,11 @@
                 </center>
                 <form  action="login_check.php" method="POST" class="login_form">
                     <div>
-                        <label class="label_deg">Name</label>
+                        <label class="label_deg">Your Name</label>
                         <input type="text" name="username">
                     </div>
                     <div>
-                        <label class="label_deg">Password</label>
+                        <label class="label_deg">Your Password</label>
                         <input type="password" name="password">
                     </div>
                     <div>
