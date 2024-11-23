@@ -14,7 +14,7 @@
             </ul>
         </div>
     </section>
-    <!-- social Section Ends Here -->
+    
 
     <!-- footer Section Starts Here -->
     <section class="footer">
